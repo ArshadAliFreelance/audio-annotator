@@ -1,0 +1,6 @@
+
+{
+  "name": "Audio Annotator",
+  "description": "An app to automatically generate and edit annotations for audio files using the Gemini API.",
+  "requestFramePermissions": []
+}
